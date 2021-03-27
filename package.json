@@ -1,0 +1,18 @@
+{
+  "name": "authXlsx2Json",
+  "version": "1.0.0",
+  "description": "广拓云平台权限文件生成工具",
+  "main": "lib/index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fengyw",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.3.3",
+    "xlsx": "^0.16.9"
+  }
+}
