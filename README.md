@@ -7,13 +7,13 @@
 1. 安装依赖：
 
    ```
-   npm install authXlsx2Json
+   npm install authxlsx2json
    ```
 
-2. 命令行输入authXlsx2Json+你的权限表格的路径，回车执行，例如：
+2. 命令行输入authxlsx2json+你的权限表格的路径，回车执行，例如：
 
    ```
-   authXlsx2Json .\权限模板.xlsx
+   authxlsx2json .\权限模板.xlsx
    ```
 
 3. 根据命令行提示输入你要输出的路径和json的文件名，如：
