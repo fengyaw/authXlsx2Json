@@ -1,5 +1,5 @@
 {
-  "name": "authXlsx2Json",
+  "name": "authxlsx2json",
   "version": "1.0.0",
   "description": "广拓云平台权限文件生成工具",
   "main": "lib/index.js",
